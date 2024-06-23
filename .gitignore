@@ -1,7 +1,7 @@
 # Ignore virtual environments
 venv/
-.venv/
-gpt4all-venv
+.gpt4all-venv/
+.llama-venv/
 
 # Ignore Python cache files
 __pycache__/
@@ -12,3 +12,6 @@ __pycache__/
 
 # Ignore other unwanted files
 *.log
+
+# Ignore environment configuration files
+.env
