@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+.venv/
+gpt4all-venv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore other unwanted files
+*.log
